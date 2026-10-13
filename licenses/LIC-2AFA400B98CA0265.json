@@ -1,9 +1,0 @@
-{
-  "formatVersion" : 1,
-  "licenseId" : "LIC-2AFA400B98CA0265",
-  "generatedAt" : "2026-10-13T22:21:38.294462300Z",
-  "salt" : "+MyodYClkJITuexnInDDtA==",
-  "iv" : "iIO4Ug7Oq+0gFU4j",
-  "ciphertext" : "/Bx0lJgsGF/AmILdjQfbJlyU7tNSdG4qMJ/n8yGy5nc4bFCRO3k9ck8Axha3zKPs4/MJYmsNQUdF/+Fy1KAsnz5b",
-  "signature" : "ifuAjmSjvl5xpwytdOU13L6qzKApIoPDyoZ5tt2bmXQalO3i1FiZIJKZpgsxXYNMQV8T5NFBp0lUmRI5eA9JAg=="
-}
