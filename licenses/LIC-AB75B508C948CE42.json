@@ -1,0 +1,9 @@
+{
+  "formatVersion" : 1,
+  "licenseId" : "LIC-AB75B508C948CE42",
+  "generatedAt" : "2026-10-26T19:10:11.461583400Z",
+  "salt" : "pMGKpa7EzJCrYsSreVYJOA==",
+  "iv" : "oh81exPjUn6hcM4y",
+  "ciphertext" : "t8SBjRRJ/V0MxPhHGeY2U31I3eS0OoryFS3Zt8gvErF4TweFT+UWkzJpWALuPrvZQ7jB9orqYjDV1YTNxWivW/kn",
+  "signature" : "BgUrEPxCviLZYfNWCZbmC6LPeop+1qwH6w47ZuaO8yb1iAMO5u5v0m81fJHATZoPIPIjcVr1CL5XAluRzvEiBQ=="
+}
