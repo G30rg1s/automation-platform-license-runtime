@@ -1,0 +1,9 @@
+{
+  "formatVersion" : 1,
+  "licenseId" : "LIC-332F7CEB81BF6F82",
+  "generatedAt" : "2026-10-26T19:11:03.711654300Z",
+  "salt" : "KkyenxFYZLsZ7m1cKha2Kw==",
+  "iv" : "H07RUkgyW7L5TBhW",
+  "ciphertext" : "cuXtNcoTks1JBgOYDAg963hy1rNB5v38dvsQV0G6/QiHxtmSeV+i4lMtTVH0g7kjpQ2hpJKQYJXLoorjNdJLRiwn",
+  "signature" : "MSbezAr1pE+pxu+Vs6eN+heXlS4IxxqBV16guZE+wxCG/bej9e7BZVti1iqxqp5D+pzXm6fV+DYzMwSWFKZsCA=="
+}
